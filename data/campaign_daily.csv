@@ -1,0 +1,11 @@
+date,platform,campaign,ad_set,creative,spend,impressions,link_clicks,landing_page_views,view_item,add_to_cart,begin_checkout,purchases,revenue
+2026-09-01,Meta,LED Prospecting,Core,video-a,30,5000,300,285,270,24,8,2,220
+2026-09-02,Meta,LED Prospecting,Core,video-a,32,5200,290,250,235,18,6,1,110
+2026-09-01,Google,Doorbell Search,High Intent,search-a,25,1200,40,38,35,5,2,1,139
+2026-09-02,Google,Doorbell Search,High Intent,search-a,28,1400,45,44,41,4,0,0,0
+2026-09-01,TikTok,LED Creative Test,Interest,ugc-a,20,6000,360,330,310,11,2,0,0
+2026-09-02,TikTok,LED Creative Test,Interest,ugc-a,23,7500,360,180,170,3,0,0,0
+2026-09-01,Meta,Retargeting,Visitors,carousel-a,10,800,55,50,18,7,3,1,110
+2026-09-02,Meta,Retargeting,Visitors,carousel-a,11,850,60,55,17,6,2,0,0
+2026-09-01,Meta,Cold Offer Test,Prospecting,image-b,18,2500,120,55,50,6,0,0,0
+2026-09-02,Meta,Cold Offer Test,Prospecting,image-b,20,2700,130,50,45,4,0,0,0
