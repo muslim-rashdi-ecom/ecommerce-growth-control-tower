@@ -1,0 +1,7 @@
+date,platform,event,platform_count,site_count,scope
+2026-09-01,Meta,view_item,580,520,platform attribution vs site event log
+2026-09-01,Meta,add_to_cart,42,48,platform attribution vs site event log
+2026-09-01,Google,begin_checkout,2,4,platform attribution vs site event log
+2026-09-01,TikTok,view_item,310,280,platform attribution vs site event log
+2026-09-02,TikTok,add_to_cart,3,7,platform attribution vs site event log
+2026-09-02,Meta,purchase,1,2,platform attribution vs site event log
